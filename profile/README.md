@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-This Org contains forks of Dyson libraries and addons for use in HomeAssistant.
+This Org contains code and forks things for use in HomeAssistant.
